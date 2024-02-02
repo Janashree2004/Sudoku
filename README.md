@@ -62,7 +62,7 @@ If you wish to contribute to the development of this Sudoku game, please follow 
 
 ## Output
 
-
+![image](https://github.com/Janashree2004/Sudoku/assets/142415775/41698f15-dfdd-477a-b3bd-132b4cbbc706)
 
 ## License
 
